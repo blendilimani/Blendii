@@ -1,4 +1,3 @@
-import react from "react";
 import './skills.css';
 import UIDesign from '../../assets/ui-design.png';
 import WebDesign from '../../assets/website-design.png';

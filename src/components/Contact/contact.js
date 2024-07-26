@@ -1,4 +1,3 @@
-import react from 'react'
 import './contact.css';
 import Walmart from '../../assets/walmart.png';
 import Adobe from '../../assets/adobe.png';
